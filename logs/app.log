@@ -1,0 +1,18 @@
+2025-06-04 00:20:56 INFO  org.main.Main - Decidió mantener los registros existentes
+2025-06-04 00:20:56 INFO  org.main.Main - Conectando a la base de datos y creando tablas si es necesario
+2025-06-04 00:21:09 INFO  model.Casino - Casino seleccionado con ID: 1, Nombre: Mendoza, Saldo: 1020250.0
+2025-06-04 00:21:10 INFO  model.Casino - Casino seleccionado con ID: 1
+2025-06-04 00:21:32 INFO  org.main.Main - Opción seleccionada: 1
+2025-06-04 00:21:32 INFO  org.main.Main - Iniciando juego de ruleta para el casino ID 1
+2025-06-04 00:21:41 INFO  model.Ruleta - Jugador 'Fabrizio' ha iniciado sesión en el casino 'Mendoza'
+2025-06-04 00:21:53 INFO  org.main.Main - Opción seleccionada: 6
+2025-06-04 00:46:24 ERROR org.main.Main - Respuesta no válida: NO
+2025-06-04 00:46:25 INFO  util.BDDcode - Se está cerrando la conexión a la base de datos.
+2025-06-04 00:46:25 INFO  util.BDDcode - Conexión a la base de datos cerrada.
+2025-06-04 00:46:38 INFO  org.main.Main - Decidió mantener los registros existentes
+2025-06-04 00:46:38 INFO  org.main.Main - Conectando a la base de datos y creando tablas si es necesario
+2025-06-04 00:46:49 INFO  model.Casino - Casino seleccionado con ID: 3, Nombre: Imperial, Saldo: 1254403.0
+2025-06-04 00:46:50 INFO  model.Casino - Casino seleccionado con ID: 3
+2025-06-04 00:46:54 INFO  org.main.Main - Opción seleccionada: 3
+2025-06-04 00:47:05 INFO  org.main.Main - Opción seleccionada: 6
+2025-06-04 00:47:13 INFO  org.main.Main - Opción seleccionada: 6
